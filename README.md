@@ -8,7 +8,7 @@ Explore the live demo of the corresponding frontend app: [Shopify Test Frontend]
 
 ## Backend Endpoint
 
-The backend server exposes product data through the following endpoint: [Get All Products](https://ilialysov.github.io/shopify-test/)
+The backend server exposes product data through the following endpoint: [Get All Products](https://shopify-back-test-dnoxmuzgta-lm.a.run.app/products/all)
 
 ## Shopify GraphQL API
 
