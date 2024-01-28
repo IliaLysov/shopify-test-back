@@ -2,6 +2,14 @@
 
 This is the backend server for the Shopify Test React Vite app. It connects to the Shopify GraphQL API using Node.js, Express, and PostgreSQL.
 
+## Frontend Link
+
+Explore the live demo of the corresponding frontend app: [Shopify Test Frontend](https://ilialysov.github.io/shopify-test/)
+
+## Backend Endpoint
+
+The backend server exposes product data through the following endpoint: [Get All Products](https://ilialysov.github.io/shopify-test/)
+
 ## Shopify GraphQL API
 
 The backend server interacts with the Shopify GraphQL API to fetch and manage product data.
